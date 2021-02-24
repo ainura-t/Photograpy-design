@@ -34,7 +34,7 @@ main{
 }
 #landing-text{
     display: flex;
-    flex: 0 1 400vw;
+    flex: 0 1 150vw;
     height: 50vh;
     justify-content: center;
     align-items: center;
